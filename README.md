@@ -3,7 +3,7 @@
 ![portada](https://github.com/imalanz/Diamonds_PriceForecasting/blob/main/images/portada.jpg?raw=true)
 
 ## A price prediction exercise.
-![Go to project](https://github.com/imalanz/Diamonds_PriceForecasting/blob/main/diamond.ipynb)
+[Go to project 💎](https://github.com/imalanz/Diamonds_PriceForecasting/blob/main/diamond.ipynb)
 ### Introduction:
 The goal of this project is to forecast the prices of diamonds based on their characteristics using machine learning techniques. The project utilizes a Python notebook for data analysis and modeling. The dataset used is obtained from Kaggle and contains diamond prices from 2022. 
 
